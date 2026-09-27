@@ -1,1 +1,1 @@
-# DL-Lab8-Reinforcement-Learning
+# Deep Learning Lab 8: Reinforcement Learning
